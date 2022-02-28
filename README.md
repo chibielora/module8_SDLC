@@ -8,7 +8,7 @@ The best way to interpret user needs is to list the step-by-step actions taken b
 
 ## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-
+I learned that UML diagrams are a great way to plan for my features in a way that is organized and functional. The project management introduction that the course provided me is invaluable for my future career. I was already accustomed to user stories, but I did not have written test cases in place before. Even though I could not see the usability of the "test" and "fail" cases in course's scope (there was not much deliverable code, so there wasn't much to test at all), I will definitely consider using in a real-life setting.
 
 ## What does it mean to be a good team member in software development?
 
